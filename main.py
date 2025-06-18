@@ -8,3 +8,4 @@ connection.starttls() #ENCRYPTS CONNECTION
 connection.login(user=my_email, password= password)
 connection.sendmail(from_addr=my_email, to_addrs="765crimson@gmail.com", msg="Hello")
 connection.close()
+ss
